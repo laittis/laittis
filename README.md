@@ -1,4 +1,4 @@
-# Jari Ravantti
+# Laziness is a virtue
 
 <!---
 laittis/laittis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
